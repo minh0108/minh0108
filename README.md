@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Kim min hyeok
 
 <!--
 **minh0108/minh0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
